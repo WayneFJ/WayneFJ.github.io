@@ -1,0 +1,12 @@
+Instrument recordings: tonejs-instruments, curated and edited by Nicholaus P. Brosowsky.
+https://github.com/nbrosowsky/tonejs-instruments
+Samples licensed under Creative Commons Attribution 3.0 Unported:
+https://creativecommons.org/licenses/by/3.0/
+
+Original sources listed by that collection:
+Electric guitar: Karoryfer Samples, https://www.karoryfer.com/karoryfer-samples
+Piano: VSCO 2 / Versilian Studios, http://vis.versilstudios.net/vsco-community.html
+
+Portfolio adaptations: shortened to three seconds, converted to mono 44.1 kHz MP3,
+end fades added. Playback transposes nearby notes. Guitar uses drive and cabinet
+filtering; piano uses a subtle doubled delay. No artist endorsement is implied.
